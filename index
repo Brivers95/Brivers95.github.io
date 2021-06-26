@@ -1,3 +1,4 @@
+<html>
 <div id="adobe-dc-view"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
 <script type="text/javascript">
@@ -9,3 +10,4 @@
 		}, {showAnnotationTools: false, showLeftHandPanel: false});
 	});
 </script>
+</html>
