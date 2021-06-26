@@ -5,7 +5,7 @@
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
 		var adobeDCView = new AdobeDC.View({clientId: "aaaf49a874944ec4871f4d1fb79d124e", divId: "adobe-dc-view"});
 		adobeDCView.previewFile({
-			content:{location: {url: "https://shared-assets.adobe.com/link/7b142ee0-2223-4b21-5992-36b411e75d6e"}},
+			content:{location: {url: "https://brivers95.github.io/RiversB_19703518_Support.pdf"}},
 			metaData:{fileName: "RiversB_Presentation.pdf"}
 		}, {showAnnotationTools: false, showLeftHandPanel: false});
 	});
